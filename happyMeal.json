@@ -1,3 +1,133 @@
 {
-    "test": "test"
+  "recettes": [
+    {
+      "nom": "Ratatouille",
+      "type": "plat principal",
+      "temps_preparation": "40 minutes",
+      "nombre_personnes": 4,
+      "ingredients": [
+        {"nom": "Aubergine", "quantite": "1"},
+        {"nom": "Courgette", "quantite": "1"},
+        {"nom": "Poivron rouge", "quantite": "1"},
+        {"nom": "Poivron jaune", "quantite": "1"},
+        {"nom": "Tomates", "quantite": "3"},
+        {"nom": "Oignon", "quantite": "1"},
+        {"nom": "Ail", "quantite": "2 gousses"},
+        {"nom": "Huile d'olive", "quantite": "2 cuillères à soupe"},
+        {"nom": "Herbes de Provence", "quantite": "1 cuillère à café"},
+        {"nom": "Sel", "quantite": "au goût"},
+        {"nom": "Poivre", "quantite": "au goût"}
+      ]
+    },
+    {
+      "nom": "Gazpacho",
+      "type": "entrée",
+      "temps_preparation": "15 minutes",
+      "nombre_personnes": 4,
+      "ingredients": [
+        {"nom": "Tomates", "quantite": "6"},
+        {"nom": "Concombre", "quantite": "1/2"},
+        {"nom": "Poivron vert", "quantite": "1/2"},
+        {"nom": "Oignon rouge", "quantite": "1/4"},
+        {"nom": "Ail", "quantite": "1 gousse"},
+        {"nom": "Vinaigre de vin rouge", "quantite": "2 cuillères à soupe"},
+        {"nom": "Huile d'olive", "quantite": "3 cuillères à soupe"},
+        {"nom": "Pain blanc rassis", "quantite": "50g"},
+        {"nom": "Sel", "quantite": "au goût"},
+        {"nom": "Poivre", "quantite": "au goût"}
+      ]
+    },
+    {
+      "nom": "Tiramisu",
+      "type": "dessert",
+      "temps_preparation": "20 minutes",
+      "nombre_personnes": 6,
+      "ingredients": [
+        {"nom": "Œufs", "quantite": "4"},
+        {"nom": "Sucre", "quantite": "100g"},
+        {"nom": "Mascarpone", "quantite": "250g"},
+        {"nom": "Biscuits à la cuillère", "quantite": "200g"},
+        {"nom": "Café fort", "quantite": "300ml"},
+        {"nom": "Cacao en poudre", "quantite": "2 cuillères à soupe"}
+      ]
+    },
+    {
+      "nom": "Quiche Lorraine",
+      "type": "plat principal",
+      "temps_preparation": "45 minutes",
+      "nombre_personnes": 6,
+      "ingredients": [
+        {"nom": "Pâte brisée", "quantite": "1"},
+        {"nom": "Lardons", "quantite": "150g"},
+        {"nom": "Œufs", "quantite": "3"},
+        {"nom": "Crème fraîche", "quantite": "200ml"},
+        {"nom": "Lait", "quantite": "100ml"},
+        {"nom": "Gruyère râpé", "quantite": "100g"},
+        {"nom": "Sel", "quantite": "au goût"},
+        {"nom": "Poivre", "quantite": "au goût"},
+        {"nom": "Noix de muscade", "quantite": "une pincée"}
+      ]
+    },
+    {
+      "nom": "Salade Niçoise",
+      "type": "entrée",
+      "temps_preparation": "25 minutes",
+      "nombre_personnes": 4,
+      "ingredients": [
+        {"nom": "Thon en boîte", "quantite": "200g"},
+        {"nom": "Pommes de terre", "quantite": "4"},
+        {"nom": "Œufs", "quantite": "4"},
+        {"nom": "Haricots verts", "quantite": "200g"},
+        {"nom": "Tomates", "quantite": "2"},
+        {"nom": "Olives noires", "quantite": "100g"},
+        {"nom": "Oignon rouge", "quantite": "1/2"},
+        {"nom": "Vinaigre de vin rouge", "quantite": "2 cuillères à soupe"},
+        {"nom": "Huile d'olive", "quantite": "3 cuillères à soupe"},
+        {"nom": "Moutarde", "quantite": "1 cuillère à café"},
+        {"nom": "Sel", "quantite": "au goût"},
+        {"nom": "Poivre", "quantite": "au goût"}
+      ]
+    },
+      {
+      "nom": "Pâtes à la carbonara",
+      "type": "plat principal",
+      "temps_preparation": "20 minutes",
+      "nombre_personnes": 2,
+      "ingredients": [
+        {"nom": "Spaghetti", "quantite": "200g"},
+        {"nom": "Lardons", "quantite": "100g"},
+        {"nom": "Œufs", "quantite": "2"},
+        {"nom": "Parmesan râpé", "quantite": "50g"},
+        {"nom": "Crème fraîche", "quantite": "100ml"},
+        {"nom": "Sel", "quantite": "au goût"},
+        {"nom": "Poivre", "quantite": "au goût"}
+      ]
+    },
+    {
+      "nom": "Salade César",
+      "type": "entrée",
+      "temps_preparation": "15 minutes",
+      "nombre_personnes": 2,
+      "ingredients": [
+        {"nom": "Laitue romaine", "quantite": "1"},
+        {"nom": "Blanc de poulet", "quantite": "200g"},
+        {"nom": "Croûtons", "quantite": "1 tasse"},
+        {"nom": "Parmesan râpé", "quantite": "50g"},
+        {"nom": "Sauce César", "quantite": "3 cuillères à soupe"}
+      ]
+    },
+    {
+      "nom": "Tarte aux pommes",
+      "type": "dessert",
+      "temps_preparation": "40 minutes",
+      "nombre_personnes": 6,
+      "ingredients": [
+        {"nom": "Pâte brisée", "quantite": "1"},
+        {"nom": "Pommes", "quantite": "4"},
+        {"nom": "Sucre", "quantite": "100g"},
+        {"nom": "Cannelle", "quantite": "1 cuillère à café"},
+        {"nom": "Beurre", "quantite": "30g"}
+      ]
+    },
+  ]
 }
